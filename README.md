@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# Pack Detector
+Detects resource packs sent by the server, helps to narrow down problems.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Mainly for additional debugging for https://github.com/SamB440/ForcePack.

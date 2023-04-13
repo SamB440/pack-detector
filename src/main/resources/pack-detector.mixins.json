@@ -6,7 +6,8 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "com.convallyria.packdetector.mixin.PacketMixin",
+    "com.convallyria.packdetector.mixin.accessor.PackStatusAccessor"
   ],
   "injectors": {
     "defaultRequire": 1
