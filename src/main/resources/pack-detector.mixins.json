@@ -1,13 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "com.convallyria.packdetector.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "com.convallyria.packdetector.mixin.PacketMixin",
-    "com.convallyria.packdetector.mixin.accessor.PackStatusAccessor"
+    "PacketMixin"
   ],
   "injectors": {
     "defaultRequire": 1

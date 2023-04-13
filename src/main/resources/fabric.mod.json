@@ -9,11 +9,11 @@
     "SamB440"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.convallyria.com",
+    "sources": "https://github.com/SamB440/pack-detector"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
@@ -28,10 +28,7 @@
 
   "depends": {
     "fabricloader": ">=0.14.17",
-    "minecraft": "~1.16.5",
-    "java": ">=8"
-  },
-  "suggests": {
-    "another-mod": "*"
+    "minecraft": "~1.19.4",
+    "java": ">=17"
   }
 }
